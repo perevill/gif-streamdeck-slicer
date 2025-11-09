@@ -1,4 +1,4 @@
-# Stream Deck Plus GIF Slicer
+# Stream Deck GIF Slicer
 
 Splits animated GIFs into a grid. G. Colab ready. For a big animated background across all your buttons.
 
